@@ -1,4 +1,4 @@
-link to heroku : https://dashboard.heroku.com/apps/aqueous-journey-17478
+link to heroku : https://aqueous-journey-17478.herokuapp.com/
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
